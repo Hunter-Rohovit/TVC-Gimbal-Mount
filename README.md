@@ -11,4 +11,4 @@ The TVC Gimbal Mount is an ongoing project with the eventual goal of creating a 
 <img src = "https://github.com/user-attachments/assets/fd4f4aa9-bb2c-46c3-845a-0c495b77cb1e" width = 80% height =80%>
 
 ## Data Analysis
-<img src = "https://github.com/user-attachments/assets/1c2b8580-257c-41bd-a3dc-d0c02f0eb609" width = 80% height =80%>
+<img src = "https://github.com/user-attachments/assets/03923ff9-4a12-436a-85c9-30921e3ec093" width = 80% height =80%>
