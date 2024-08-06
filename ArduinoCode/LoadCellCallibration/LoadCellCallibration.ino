@@ -24,7 +24,7 @@ void loop() {
   //Callibrating the Scale
 
   //Callibratiing LoadCell1
-  /*if (loadPoint1.is_ready()) {
+  if (loadPoint1.is_ready()) {
       loadPoint1.set_scale();    
       Serial.println("Tare... remove any weights from the scale.");
       delay(10000);
@@ -57,7 +57,7 @@ void loop() {
     else {
       Serial.println("HX711 LoadPoint2 not found.");
     }
-    delay(10000);*/
+    delay(10000);
 
     //Callibratiing LoadCell3
    if (loadPoint3.is_ready()) {
