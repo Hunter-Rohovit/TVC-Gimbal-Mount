@@ -3,6 +3,7 @@ The TVC Gimbal Mount is an ongoing project with the eventual goal of creating a 
 
 ## Static Fire Test
 <img src = "https://github.com/user-attachments/assets/ae609b57-0e10-445f-9756-45a847c7ae16" width = 50% height =50%>
+
 ## TVC Mount
 ![IMG_3040](https://github.com/user-attachments/assets/79c3229d-1af6-4c57-9bab-1c848a785de1)
 ## CAD Design
