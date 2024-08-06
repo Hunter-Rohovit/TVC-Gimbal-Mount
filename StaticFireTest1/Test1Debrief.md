@@ -8,6 +8,7 @@ Turns out I can't ignore the ejection charge. Explosion at the end of the video 
 
 While writing this debrief initially, there didn't appear to be any significant damage to the TVC mount after testing. After further inspection it became clear that the outer loop of the TVC mount broke at its hinge. Before the test this was a major area of concern as the hinge wasn't solidly connected to the TVC mount. To correct this issue, the areas around the hinge will be widened to give it more support. Additionally, the PLA filament that was used for V1 will be replaced with PETG filament (a stronger variant of plastic) for V2.
 <br>
+<br>
 Changes for test 2:<br>
 -10hz to 80hz data log rate <br>
 -side vents in engine holder<br>
