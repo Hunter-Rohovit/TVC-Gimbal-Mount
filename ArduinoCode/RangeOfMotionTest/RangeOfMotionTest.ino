@@ -22,34 +22,25 @@ void setup() {
   servo1.write(zeroPos);
   servo2.write(zeroPos2);
   delay(1000);
- 
- //tvcCode();
- //fourCorners();
-
- /*for(int i = 0; i<4; i++){
-    circularMotion();
-  }
   servo1.write(zeroPos);
-  servo2.write(zeroPos2);*/
+  servo2.write(zeroPos2);
 
 
 }
 
 void loop() {
- //tvcCode(); 
- //circularMotion();
-fourCorners();
-delay(2000);
-servo1.write(zeroPos);
-  servo2.write(zeroPos2);
-  delay(3000);
-
-/*servo1.write(zeroPos);
-  servo2.write(zeroPos2);
-  delay(3000);*/
-
-
+ tvcCode(); 
+ delay(3000);
+ circularMotion();
+ delay(3000);
+ fourCorners();
+ delay(3000);
+ servo1.write(zeroPos);
+ servo2.write(zeroPos2);
+ delay(3000);
 }
+
+
 void tvcCode(){
   //Range of Motion Test
   //Oscillates between max and min positions
